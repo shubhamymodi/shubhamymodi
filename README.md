@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Modi</h1>
 <h3 align="center">A Software Developer and Freelancer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://shubhamymodi.me/](https://shubhamymodi.live/)
+- 👨‍💻 All of my projects are available at [https://shubhamymodi.live/](https://shubhamymodi.live/)
 
 - 💬 Ask me about **JavaScript, MERN, C++, DSA, OOPS, OS, DBMS, Firebase**
 
