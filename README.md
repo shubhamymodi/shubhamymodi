@@ -1,24 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shubham Modi</h1>
-<h3 align="center">A Software Developer and Freelancer from India</h3>
+# Hi 👋, I'm Shubham Modi
 
-- 👨‍💻 All of my projects are available at [https://shubhamymodi.live/](https://shubhamymodi.live/)
+### Aspiring Data Scientist | Ex Frontend Developer | Python • SQL • Machine Learning
 
-- 💬 Ask me about **JavaScript, MERN, C++, DSA, OOPS, OS, DBMS, Firebase**
+I’m currently transitioning from **Frontend Development to Data Science**, building projects focused on **machine learning, analytics, and data-driven decision making**.
 
-- 📫 How to reach me **shubhamymodi@gmail.com || https://www.linkedin.com/in/shubham-modi5/**
+I enjoy solving business problems using **data analysis, statistical modeling, and machine learning**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shubham-modi5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-modi5" height="30" width="40" /></a>
-<a href="https://codesandbox.com/shubhamymodi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shubhamymodi" height="30" width="40" /></a>
-<a href="https://instagram.com/shubham_modi5" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubham_modi5" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shubhamymodi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhamymodi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shubbhhamymodii" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubbhhamymodii" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/<shubbhhamymodii>/profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<shubbhhamymodii>/profile" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 🚀 Current Focus
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shubhamymodi" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shubhamymodi" /></a></p><br><br>
+- 📊 Data Science & Machine Learning
+- 🧠 Predictive Modeling
+- 📈 Data Analytics & Visualization
+- 🏗 End-to-End ML Projects
+- 🧮 Statistical Analysis
+
+---
+
+## 🧠 Featured Projects
+
+### 🔹 Customer Churn Prediction
+Built and deployed a **machine learning application** to predict telecom customer churn.
+
+- Models: Logistic Regression, Random Forest  
+- Performance: **~0.85 ROC-AUC**
+- Built an interactive **Streamlit app for real-time predictions**
+
+Tech Stack  
+`Python` `Pandas` `Scikit-learn` `Streamlit` `Matplotlib`
+
+🔗 GitHub: https://github.com/shubhamymodi/customer-churn-prediction 
+
+---
+
+### 🔹 Delivery Time Estimation
+Built a **regression model** predicting delivery time using **140K+ delivery records**.
+
+- Performed feature engineering and outlier treatment
+- Reduced multicollinearity using **VIF & RFE**
+- Achieved **~5 min RMSE with R² = 0.62**
+
+Tech Stack  
+`Python` `Pandas` `Scikit-learn` `Statsmodels`
+
+🔗 GitHub: [https://github.com/shubhamymodi/delivery-time-estimation](https://github.com/shubhamymodi/Delivery-Time-Estimation---Linear-Regression)
+
+---
+
+### 🔹 E-commerce Sales Dashboard
+Developed a **Power BI dashboard** analyzing global e-commerce performance across **14 countries**.
+
+Key insights included:
+
+- Sales performance vs targets
+- Team-level performance analysis
+- Geographic demand trends
+- Customer behavior insights
+
+Tech Stack  
+`Power BI` `DAX` `Power Query` `Data Modeling`
+
+🔗 GitHub: [https://github.com/shubhamymodi/ecommerce-sales-dashboard](https://github.com/shubhamymodi/ecommerce-sales-powerbi-dashboard) 
+
+---
+
+## 🛠 Tools & Technologies
+
+### Programming
+Python • SQL
+
+### Data Analysis
+Pandas • NumPy • Excel
+
+### Machine Learning
+Scikit-learn • Regression • Classification • Feature Engineering
+
+### Data Visualization
+Power BI • Matplotlib
+
+### Concepts
+Data Cleaning • Statistical Analysis • Model Evaluation • Data Modeling
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/shubhamymodi
+
+Email  
+shubhamymodi@gmail.com
+
+---
+
+⭐ If you find my work interesting, feel free to connect!
